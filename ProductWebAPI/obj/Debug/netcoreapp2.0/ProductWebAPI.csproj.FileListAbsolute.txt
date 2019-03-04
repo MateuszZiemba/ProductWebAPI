@@ -1,0 +1,13 @@
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\bin\Debug\netcoreapp2.0\ProductWebAPI.deps.json
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\bin\Debug\netcoreapp2.0\ProductWebAPI.runtimeconfig.json
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\bin\Debug\netcoreapp2.0\ProductWebAPI.runtimeconfig.dev.json
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\bin\Debug\netcoreapp2.0\ProductWebAPI.dll
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\bin\Debug\netcoreapp2.0\ProductWebAPI.pdb
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.csprojAssemblyReference.cache
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.AssemblyInfoInputs.cache
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.AssemblyInfo.cs
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.dll
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.pdb
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.Resources.Messages.resources
+C:\Users\mateusz.ziemba\source\repos\ProductWebAPI\ProductWebAPI\obj\Debug\netcoreapp2.0\ProductWebAPI.csproj.GenerateResource.cache
